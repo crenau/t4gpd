@@ -15,7 +15,10 @@ To be able to use the **t4gpd** plugin, perform geoprocessing and display your o
 
 > conda install notebook numpy scikit-learn PyWavelets pysolar
 
-
 ## Installation instructions
 Start by downloading the **t4gpd** latest version available from the [SourceSup website](https://sourcesup.renater.fr/projects/t4gs). Then, install the Python3 plugin you downloaded:
 > pip install t4gpd-0.1.0.tar.gz
+
+## Read the documentation
+Go to [https://t4gpd-docs.readthedocs.io](https://t4gpd-docs.readthedocs.io) to consult the documentation.
+
