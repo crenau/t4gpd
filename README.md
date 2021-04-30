@@ -11,13 +11,13 @@ To be able to use the **t4gpd** plugin, perform geoprocessing and display your o
 
 > conda config --env --set channel_priority strict
 
-> conda install descartes geopandas matplotlib networkx 
+> conda install geopandas descartes matplotlib networkx notebook numpy pysolar plotly
 
-> conda install notebook numpy scikit-learn PyWavelets pysolar
+> pip install matplotlib-scalebar Dijkstar suntimes windrose
 
 ## Installation instructions
 Start by downloading the **t4gpd** latest version available from the [SourceSup website](https://sourcesup.renater.fr/projects/t4gs). Then, install the Python3 plugin you downloaded:
-> pip install t4gpd-0.1.0.tar.gz
+> pip install t4gpd-0.2.0.tar.gz
 
 ## Read the documentation
 Go to [https://t4gpd-docs.readthedocs.io](https://t4gpd-docs.readthedocs.io) to consult the documentation.
